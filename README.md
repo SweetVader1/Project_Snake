@@ -2,7 +2,7 @@
 ## Context
 My project is a snake game in which the user collects apples and the snake gets bigger
 ## Libraries used:
-pygame
+### PYGAME
 Pygame is a "game library", a set of tools that help programmers create games. These include
 
 Graphics and animation
